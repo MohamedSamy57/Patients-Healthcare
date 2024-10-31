@@ -2,6 +2,9 @@
 
 > **An interactive dashboard designed to provide in-depth insights into patient demographics, departmental performance, and key healthcare metrics.**  
 > Built with **Power BI**, this dashboard enables healthcare administrators to make data-driven decisions for improved hospital efficiency and patient satisfaction.
+>
+> ![Hospital DashBoard1_page-0001 (2)](https://github.com/user-attachments/assets/9a1f72ba-6165-4de4-a928-57fa9e5fa270)
+
 
 ---
 
